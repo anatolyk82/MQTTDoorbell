@@ -1,0 +1,7 @@
+#ifndef PRIVATE_MQTT_CONFIG_H
+#define PRIVATE_MQTT_CONFIG_H
+
+#define MQTT_USER ""
+#define MQTT_PASS ""
+
+#endif //PRIVATE_MQTT_CONFIG_H

@@ -1,0 +1,7 @@
+#ifndef PRIVATE_SSID_CONFIG_H
+#define PRIVATE_SSID_CONFIG_H
+
+#define WIFI_SSID ""
+#define WIFI_PASS ""
+
+#endif //PRIVATE_SSID_CONFIG_H
